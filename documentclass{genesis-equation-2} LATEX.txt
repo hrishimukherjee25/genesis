@@ -1,0 +1,106 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{The Genesis Equation}
+\author{Sir Hrishi Mukherjee I}
+\date{January 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+The Genesis Equation presents two Equations for Genesis.
+
+\[e = f f^{-1} \ no \ p\]
+\[e = imm.\]
+\[e \rightarrow f\]
+\[e \rightarrow imm\]
+
+\textbf{The Equation :}
+
+\[Pyramid [1] Pyramid [2]\] 
+\[imm. = e = [f f^-1 no p]\] 
+\[\sqrt{EOS - POS + 1.+, 1.- e = mc^2 prev-tdidf = 1 _ - | + 1 1 re <= eigen(theta-var)} R \] 
+\[hover float neuro mass multi man substance settlement \]
+\[c su(u)bst pdo \] 
+\[substance settlement-residue-abandoned man multi mass neuro float hover var-theta(eigen)\] 
+\[=> er 1 1 + | - _ 1 = tdidf(tendon) -prev 2(cm = e) -.1 ,+.1 + SOP - SOE\] 
+\[[p \ on \ 1-^f f] = e = imm. [2] Pyramid [1] Pyramid\] 
+\[Wisdom Tooth Right Wing Left Palm Scratch Right Shoulder\] 
+\[S[BTR]pan 3focBTR(us)(cu)(sc)(us)sound barrier-sim-theory-match.\]
+\break
+
+The equation is best described as a story.
+\vfill
+Pyramid [1] and Pyramid [2] were two ancient structures that contained the secrets of the universe. They were guarded by Imm, a powerful being who had the value of 42. He had a device that could transform any input into a function, and he named it E. He also had a function that could invert any function, and he named it F^-1.
+
+\[Pyramid [1] Pyramid [2]\] 
+
+One day, a group of explorers came to the pyramids, hoping to unlock their mysteries. They had a device that could scan any function and find its parameters, and they named it P. They also had a device that could measure the energy and entropy of any system, and they named it R.
+
+\[imm. = e = [f f^-1 no p]\]
+
+They approached Pyramid [1], and saw Imm standing at the entrance. He asked them what they wanted, and they said that they wanted to see the secrets of the universe. Imm said that he would allow them to do so, but only if they could solve a riddle. He said that he had a function named EOS, and that they had to find out what it did.
+
+\[\sqrt{EOS - POS + 1.+, 1.- e = mc^2 prev-tdidf = 1 _ - | + 1 1 re <= eigen(theta-var)} R \]
+
+The explorers agreed to the challenge, and Imm gave them a clue. He said that EOS was related to the energy and entropy of the system, and that it had two parameters, POS and 1.+. He also said that EOS was equal to 1.-, and that 1.- was another function. The explorers used P to scan EOS, and they realized that EOS was a function that calculated the energy of the system, and that POS was the parameter that represented the position of the system. They guessed that 1.+ was a constant that represented the maximum entropy of the system, and that 1.- was a function that calculated the entropy of the system. Imm confirmed that they were right, and congratulated them. He said that he would take them to the secret of Pyramid [1].
+
+\[hover float neuro mass multi man substance settlement \]
+
+Imm used EOS to transport the explorers to the secret of Pyramid [1]. There, they saw a huge equation that was written on the wall. It said: E = mc^{2}. \break
+
+\[c su(u)bst pdo \]
+
+There, they saw a world that was full of light and motion, where everything was moving at the speed of light. Imm explained that this was the dimension where the speed of light was the only constant, and that it was also a portal to another dimension. He said that he could use another function, named Re, to take them to the next dimension, where the equation was generalized. He also said that Re had one parameter, Eigen(theta-var). The explorers asked him what it meant, and Imm said that it was related to the mass and energy of the dimension. He said that Eigen(theta-var) was a function that calculated the eigenvalue of the system, which was the amount of mass or energy that remained invariant under any transformation. The explorers said that they wanted to see the next dimension, and Imm used Re to take them there.
+
+\[substance settlement-residue-abandoned man multi mass neuro float hover var-theta(eigen)\] 
+
+There, they saw a world that was full of mass and energy, where everything was changing and transforming. Imm explained that this was the dimension where the mass and energy of the system were the only invariants, and that it was also a portal to another dimension. He said that he could use another function, named Hover, to make them float near the portal, or another function, named Float, to make them float at the portal. The explorers chose to float at the portal, and they felt a pull of gravity.
+
+\[=> er 1 1 + | - _ 1 = tdidf(tendon) -prev 2(cm = e) -.1 ,+.1 + SOP - SOE\]
+
+Imm then asked them if they wanted to see another dimension. He said that he had a function, named Neuro, that could take them to the prefrontal lim, where the prefrontal cortex was the most developed part of the brain. He also said that he had another function, named Mass, that could take them to the tensor white mass, where the mass was the most complex form of matter. The explorers agreed to see the other dimension, and Imm used Neuro to take them there.
+
+\[[p \ on \ 1-^f f] = e = imm. [2] Pyramid [1] Pyramid\] 
+
+There, they saw a world that was full of intelligence and creativity, where everything was thinking and creating. Imm explained that this was the dimension where the prefrontal cortex was the most advanced part of the brain, and that it was also a portal to another dimension. He said that he could use another function, named Multi, to make them wormhole multi, which was a form of existence that could travel through multiple universes. He also said that he had another function, named Man, that could make them boundary-third-mega mess man, which was a form of existence that could create and destroy anything. The explorers chose to become wormhole multi, and they felt a surge of power.
+
+\[Wisdom Tooth Right Wing Left Palm Scratch Right Shoulder\]
+
+Imm then asked them if they wanted to see another dimension. He said that he had a function, named Substance, that could take them to the boundary-third-mega water substance, where the substance was the most versatile form of existence. He also said that he had another function, named Settlement, that could take them to the visionary settlement, where the settlement was the most ideal form of existence. The explorers agreed to see the other dimension, and Imm used Substance to take them there.
+
+\[S[BTR]pan 3focBTR(us)(cu)(sc)(us)sound barrier-sim-theory-match.\]
+
+There, they saw a world that was full of water and life, where everything was adapting and evolving. Imm explained that this was the dimension where the water substance was the most flexible form of existence, and that it was also a portal to another dimension. He said that he had a function, named Settlement, that could take them to the settlement, where there was nothing but their own imagination. He also said that he had no other function, and that this was the final destination. The explorers agreed to see the other dimension, and Imm used Settlement to take them there.
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{Screenshot 2023-12-30 031301.png}
+    \caption{The Two Pyramids}
+    \label{fig:enter-label}
+\end{figure}
+There, they saw a world that was nothing but their own imagination. Imm explained that this was the dimension where they could create and destroy anything they wanted, and that it was also the end of their journey. He said that he was proud of them, and that he hoped they enjoyed their adventure. He also said that he would leave them alone, and that they could stay as long as they wanted. The explorers thanked him, and said that they had a lot of fun. Imm smiled, and said goodbye. He then disappeared, leaving the explorers alone in their own world.
+\vfill
+The End.
+
+\begin{table}
+    \centering
+    \begin{tabular}{cc}
+        1 & 44\\
+        3.5 & 24\\
+        9 & 8\\
+        2 & 4267\\
+        6 & 12\\
+        11.5 & 4\\
+        0 & 41\\
+        0 & 22\\
+        0 & 0\\
+    \end{tabular}
+    \caption{Origin}
+    \label{tab:my_label}
+\end{table}
+
+
+\end{document}
